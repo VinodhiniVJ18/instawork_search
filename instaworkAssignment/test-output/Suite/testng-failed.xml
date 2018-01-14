@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="instaworkAssignment1.multibrowser">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="f"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- instaworkAssignment1.multibrowser -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

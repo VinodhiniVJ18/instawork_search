@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/admin/.eclipse/org.eclipse.platform_4.5.0_935825059_macosx_cocoa_x86_64/plugins/org.testng_6.13.1.r201712040515.jar"/>
+	<classpathentry kind="lib" path="/Users/admin/.eclipse/org.eclipse.platform_4.5.0_935825059_macosx_cocoa_x86_64/plugins/com.beust.jcommander_1.72.0.jar"/>
+	<classpathentry kind="lib" path="/Users/admin/.eclipse/org.eclipse.platform_4.5.0_935825059_macosx_cocoa_x86_64/plugins/org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="/Users/admin/.eclipse/org.eclipse.platform_4.5.0_935825059_macosx_cocoa_x86_64/plugins/org.yaml.snakeyaml_1.17.0.jar"/>
+	<classpathentry kind="lib" path="/Users/admin/Downloads/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
